@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js,Redux,Firebase**
 
-- 👨‍💻 All of my projects are available at [priyanshu727](priyanshu727)
+- 👨‍💻 All of my projects are available at [priyanshu727](Priyanshu727)
 
 - 💬 Ask me about **About my self**
 
