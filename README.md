@@ -4,9 +4,9 @@
     </h1>
 <h3 align="center">A passionate frontend developer from India India</h3>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Node.Js**
 
-- 🌱 I’m currently learning **React js,Redux,Firebase**
+- 🌱 I’m currently learning **Node.Js , MongooDB**
 
 - 👨‍💻 All of my projects are available at [Priyanshu727](https://github.com/Priyanshu727)
 
